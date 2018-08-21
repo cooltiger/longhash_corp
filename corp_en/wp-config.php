@@ -19,6 +19,19 @@
 // (http://wpdocs.sourceforge.jp/Codex:%E8%AB%87%E8%A9%B1%E5%AE%A4 参照)
 // を使用し、必ず UTF-8 の BOM なし (UTF-8N) で保存してください。
 
+if( isset($_SERVER['HTTP_X_SAKURA_FORWARDED_FOR']) ) {
+	$_SERVER['HTTPS'] = 'on';
+	$_ENV['HTTPS'] = 'on';
+	$_SERVER['HTTP_HOST'] = 'longhash.co.jp/en';
+	$_SERVER['SERVER_NAME'] = 'longhash.co.jp/en';
+	$_ENV['HTTP_HOST'] = 'longhash.co.jp/en';
+	$_ENV['SERVER_NAME'] = 'longhash.co.jp/en';
+}
+
+define('WP_SITEURL', 'https://longhash.co.jp/en/'); // WordPressアドレス
+define('WP_HOME', 'https://longhash.co.jp/en/'); // サイトアドレス
+
+
 // ** MySQL 設定 - こちらの情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
 define('DB_NAME', 'longhash_en');
