@@ -15,6 +15,14 @@
 </IfModule>
 # END SAKURA Internet Inc.
 
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP:X-Sakura-Forwarded-For} ^$
+RewriteRule ^(.*)$ https://longhash.co.jp/$1 [R=301,L]
+</IfModule>
+
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
