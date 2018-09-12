@@ -145,7 +145,7 @@ if ( $blog_posts->have_posts() ) :
           <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_02.png" alt="Chris Dai">
           <p class="name">Chris Dai<span>LONGHASH Japan CEO</span></p>
           <p>
-            Chris has a broad range of business management and investment experience. He is the co-founder and CEO of Leland Capital, a cross-border investment fund between China and Japan. He was formerly the COO / CIO Yixing SCM (a logistics provider), a consultant at Accenture, and co-founder of multiple ventures. Chris was one of the earliest investors in Bitcoin and Ethereum in China. He received a B.A. in Management and Science Engineering from Stanford University in 2004.
+            Chris has a broad range of business management and investment experience. He is the co-founder and CEO of Leland Capital, a cross-border investment fund between China and Japan. He was formerly the COO / CIO Yixing SCM (a logistics provider), a consultant at Accenture, and co-founder of multiple ventures. Chris was one of the earliest investors in Bitcoin and Ethereum in China. He received a B.S. in Management Science and Engineering from Stanford University in 2004.
           </p>
         </section>
         <section class="officer">

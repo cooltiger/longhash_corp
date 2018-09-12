@@ -182,7 +182,7 @@ endif;
           <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_02.png" alt="Chris Dai">
           <p class="name">Chris Dai<span>LONGHASH Japan 代表取締役社長</span></p>
           <p>
-            中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメントと科学工学のB.A.を取得。
+            中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメント科学と工学のB.S.を取得。
           </p>
         </section>
         <section class="officer">
