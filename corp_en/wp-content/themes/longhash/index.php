@@ -127,7 +127,7 @@ if ( $blog_posts->have_posts() ) :
 
       <section class="overseas">
         <h3 class="hstyle02">WORKING AREA</h3>
-        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_map.png?v1" alt="WORKING AREA">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_map_en_2.png?v1" alt="WORKING AREA">
       </section>
 
       <section>

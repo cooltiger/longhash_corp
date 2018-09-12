@@ -164,7 +164,7 @@ endif;
       </a>
       <section class="overseas">
         <h3 class="hstyle02">活動拠点</h3>
-        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_map.png?v2" alt="海外拠点">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_map_jp_2.png?v2" alt="海外拠点">
       </section>
 
       <section>
