@@ -107,12 +107,10 @@ if ( $blog_posts->have_posts() ) :
             <th>establishment</th>
             <td>Feburary 16,2018<div id="map"></div></td>
           </tr>
-          <!--
           <tr>
             <th>capital</th>
-            <td>9,000,000 yen</td>
+            <td>5,000,000 yen</td>
           </tr>
-          -->
           <tr>
             <th>about business</th>
             <td>media, online advertisement, big data analysis, incubation business</td>
